@@ -1,0 +1,11 @@
+# Credentials: never commit
+bigquery-access-key.json
+
+# Local copy of the BigQuery tables (created by the notebook)
+data/
+
+# Environment and editor files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
